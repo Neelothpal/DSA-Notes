@@ -33,4 +33,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/0493-reverse-pairs) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Neelothpal/DSA-Notes/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Neelothpal/DSA-Notes/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

@@ -43,4 +43,16 @@
 | ------- |
 | [0050-powx-n](https://github.com/Neelothpal/DSA-Notes/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/2050-count-good-numbers) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Neelothpal/DSA-Notes/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Neelothpal/DSA-Notes/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Neelothpal/DSA-Notes/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

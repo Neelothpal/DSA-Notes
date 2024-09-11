@@ -9,10 +9,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
@@ -61,4 +63,9 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

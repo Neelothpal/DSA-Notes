@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/Neelothpal/DSA-Notes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/0493-reverse-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Neelothpal/DSA-Notes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -64,10 +65,12 @@
 | [0039-combination-sum](https://github.com/Neelothpal/DSA-Notes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Neelothpal/DSA-Notes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Two Pointers

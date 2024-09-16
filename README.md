@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Neelothpal/DSA-Notes/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Neelothpal/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Neelothpal/DSA-Notes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/0040-combination-sum-ii) |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Neelothpal/DSA-Notes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->

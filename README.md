@@ -92,4 +92,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

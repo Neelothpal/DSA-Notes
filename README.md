@@ -19,6 +19,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Neelothpal/DSA-Notes/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Neelothpal/DSA-Notes/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Neelothpal/DSA-Notes/tree/master/0069-sqrtx) |
 | [2050-count-good-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |

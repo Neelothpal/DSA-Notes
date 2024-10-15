@@ -59,6 +59,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Neelothpal/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Neelothpal/DSA-Notes/tree/master/0131-palindrome-partitioning) |
+| [3195-separate-black-and-white-balls](https://github.com/Neelothpal/DSA-Notes/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
+| [3195-separate-black-and-white-balls](https://github.com/Neelothpal/DSA-Notes/tree/master/3195-separate-black-and-white-balls) |
 ## Brainteaser
 |  |
 | ------- |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/0386-lexicographical-numbers) |
+## Greedy
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/Neelothpal/DSA-Notes/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->

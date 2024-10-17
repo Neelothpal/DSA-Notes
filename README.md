@@ -47,6 +47,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Neelothpal/DSA-Notes/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Neelothpal/DSA-Notes/tree/master/0069-sqrtx) |
+| [0670-maximum-swap](https://github.com/Neelothpal/DSA-Notes/tree/master/0670-maximum-swap) |
 | [2050-count-good-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -108,6 +109,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Neelothpal/DSA-Notes/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Neelothpal/DSA-Notes/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)

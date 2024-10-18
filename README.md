@@ -15,6 +15,7 @@
 | [0216-combination-sum-iii](https://github.com/Neelothpal/DSA-Notes/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/0493-reverse-pairs) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Neelothpal/DSA-Notes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Binary Search
 |  |
@@ -78,12 +79,14 @@
 | [0090-subsets-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Neelothpal/DSA-Notes/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Neelothpal/DSA-Notes/tree/master/0216-combination-sum-iii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Neelothpal/DSA-Notes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Two Pointers
 |  |
@@ -116,4 +119,8 @@
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1304-longest-happy-string) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->

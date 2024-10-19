@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Neelothpal/DSA-Notes/tree/master/0050-powx-n) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -62,6 +63,7 @@
 | [0022-generate-parentheses](https://github.com/Neelothpal/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Neelothpal/DSA-Notes/tree/master/0131-palindrome-partitioning) |
 | [1304-longest-happy-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Neelothpal/DSA-Notes/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->

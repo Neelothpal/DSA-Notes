@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/0386-lexicographical-numbers) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Neelothpal/DSA-Notes/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
@@ -143,6 +144,7 @@
 ## Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Neelothpal/DSA-Notes/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -151,5 +153,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Neelothpal/DSA-Notes/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->

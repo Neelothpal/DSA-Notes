@@ -15,6 +15,7 @@
 | [0216-combination-sum-iii](https://github.com/Neelothpal/DSA-Notes/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/0493-reverse-pairs) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Neelothpal/DSA-Notes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Neelothpal/DSA-Notes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Binary Search
@@ -65,6 +66,7 @@
 | [0131-palindrome-partitioning](https://github.com/Neelothpal/DSA-Notes/tree/master/0131-palindrome-partitioning) |
 | [1197-parsing-a-boolean-expression](https://github.com/Neelothpal/DSA-Notes/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Neelothpal/DSA-Notes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Neelothpal/DSA-Notes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Neelothpal/DSA-Notes/tree/master/3195-separate-black-and-white-balls) |
@@ -114,11 +116,13 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Neelothpal/DSA-Notes/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Neelothpal/DSA-Notes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Neelothpal/DSA-Notes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Greedy
 |  |
 | ------- |

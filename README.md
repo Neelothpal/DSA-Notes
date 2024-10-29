@@ -21,6 +21,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Neelothpal/DSA-Notes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Neelothpal/DSA-Notes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Neelothpal/DSA-Notes/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Neelothpal/DSA-Notes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0131-palindrome-partitioning](https://github.com/Neelothpal/DSA-Notes/tree/master/0131-palindrome-partitioning) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Neelothpal/DSA-Notes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Neelothpal/DSA-Notes/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Neelothpal/DSA-Notes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -182,4 +184,5 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Neelothpal/DSA-Notes/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Neelothpal/DSA-Notes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->

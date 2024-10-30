@@ -17,6 +17,7 @@
 | [0493-reverse-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/0493-reverse-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Neelothpal/DSA-Notes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Neelothpal/DSA-Notes/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Neelothpal/DSA-Notes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Neelothpal/DSA-Notes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Neelothpal/DSA-Notes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -28,6 +29,7 @@
 | [0069-sqrtx](https://github.com/Neelothpal/DSA-Notes/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/0493-reverse-pairs) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Neelothpal/DSA-Notes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Neelothpal/DSA-Notes/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -81,6 +83,7 @@
 | [0022-generate-parentheses](https://github.com/Neelothpal/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Neelothpal/DSA-Notes/tree/master/0131-palindrome-partitioning) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Neelothpal/DSA-Notes/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Neelothpal/DSA-Notes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Neelothpal/DSA-Notes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Neelothpal/DSA-Notes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
@@ -138,6 +141,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/Neelothpal/DSA-Notes/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Neelothpal/DSA-Notes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [3195-separate-black-and-white-balls](https://github.com/Neelothpal/DSA-Notes/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |

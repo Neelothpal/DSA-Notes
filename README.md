@@ -72,6 +72,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Neelothpal/DSA-Notes/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Neelothpal/DSA-Notes/tree/master/0131-palindrome-partitioning) |
+| [0812-rotate-string](https://github.com/Neelothpal/DSA-Notes/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Neelothpal/DSA-Notes/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1304-longest-happy-string) |
@@ -194,4 +195,8 @@
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Neelothpal/DSA-Notes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Neelothpal/DSA-Notes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Neelothpal/DSA-Notes/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

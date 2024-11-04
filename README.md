@@ -81,6 +81,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Neelothpal/DSA-Notes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2580-circular-sentence](https://github.com/Neelothpal/DSA-Notes/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/Neelothpal/DSA-Notes/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/Neelothpal/DSA-Notes/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
 |  |
 | ------- |

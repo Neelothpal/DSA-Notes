@@ -19,6 +19,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Neelothpal/DSA-Notes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Neelothpal/DSA-Notes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Neelothpal/DSA-Notes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Neelothpal/DSA-Notes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Neelothpal/DSA-Notes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Neelothpal/DSA-Notes/tree/master/2554-minimum-total-distance-traveled) |
@@ -114,6 +115,7 @@
 | [0090-subsets-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Neelothpal/DSA-Notes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Neelothpal/DSA-Notes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Neelothpal/DSA-Notes/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Neelothpal/DSA-Notes/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
@@ -130,6 +132,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Neelothpal/DSA-Notes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Neelothpal/DSA-Notes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Neelothpal/DSA-Notes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -204,4 +207,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Neelothpal/DSA-Notes/tree/master/0812-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Neelothpal/DSA-Notes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->

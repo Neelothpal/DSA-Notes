@@ -25,6 +25,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Neelothpal/DSA-Notes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Neelothpal/DSA-Notes/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Neelothpal/DSA-Notes/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/Neelothpal/DSA-Notes/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Neelothpal/DSA-Notes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Neelothpal/DSA-Notes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -36,6 +37,7 @@
 | [0493-reverse-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/0493-reverse-pairs) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Neelothpal/DSA-Notes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Neelothpal/DSA-Notes/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/Neelothpal/DSA-Notes/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0069-sqrtx](https://github.com/Neelothpal/DSA-Notes/tree/master/0069-sqrtx) |
 | [0670-maximum-swap](https://github.com/Neelothpal/DSA-Notes/tree/master/0670-maximum-swap) |
 | [2050-count-good-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/2050-count-good-numbers) |
+| [2716-prime-subtraction-operation](https://github.com/Neelothpal/DSA-Notes/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -159,6 +162,7 @@
 | [0670-maximum-swap](https://github.com/Neelothpal/DSA-Notes/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Neelothpal/DSA-Notes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2716-prime-subtraction-operation](https://github.com/Neelothpal/DSA-Notes/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Neelothpal/DSA-Notes/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
@@ -224,4 +228,8 @@
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Neelothpal/DSA-Notes/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->

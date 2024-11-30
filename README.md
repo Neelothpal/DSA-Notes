@@ -177,6 +177,7 @@
 | [0386-lexicographical-numbers](https://github.com/Neelothpal/DSA-Notes/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Neelothpal/DSA-Notes/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Neelothpal/DSA-Notes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Neelothpal/DSA-Notes/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
@@ -300,6 +301,7 @@
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Neelothpal/DSA-Notes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Neelothpal/DSA-Notes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Neelothpal/DSA-Notes/tree/master/3189-find-champion-ii) |
@@ -309,4 +311,8 @@
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Neelothpal/DSA-Notes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Neelothpal/DSA-Notes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->

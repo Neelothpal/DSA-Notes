@@ -20,6 +20,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Neelothpal/DSA-Notes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Neelothpal/DSA-Notes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Neelothpal/DSA-Notes/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Neelothpal/DSA-Notes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Neelothpal/DSA-Notes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Neelothpal/DSA-Notes/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Neelothpal/DSA-Notes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -52,6 +53,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/0493-reverse-pairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Neelothpal/DSA-Notes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Neelothpal/DSA-Notes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Neelothpal/DSA-Notes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Neelothpal/DSA-Notes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Neelothpal/DSA-Notes/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Neelothpal/DSA-Notes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Neelothpal/DSA-Notes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Neelothpal/DSA-Notes/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -165,6 +168,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Neelothpal/DSA-Notes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Neelothpal/DSA-Notes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Neelothpal/DSA-Notes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Neelothpal/DSA-Notes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Neelothpal/DSA-Notes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -242,6 +246,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Neelothpal/DSA-Notes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Neelothpal/DSA-Notes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/Neelothpal/DSA-Notes/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Neelothpal/DSA-Notes/tree/master/2586-longest-square-streak-in-an-array) |

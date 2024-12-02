@@ -107,6 +107,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Neelothpal/DSA-Notes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Neelothpal/DSA-Notes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Neelothpal/DSA-Notes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Neelothpal/DSA-Notes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2580-circular-sentence](https://github.com/Neelothpal/DSA-Notes/tree/master/2580-circular-sentence) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Neelothpal/DSA-Notes/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Neelothpal/DSA-Notes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Neelothpal/DSA-Notes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Neelothpal/DSA-Notes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Neelothpal/DSA-Notes/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Neelothpal/DSA-Notes/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -269,6 +271,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Neelothpal/DSA-Notes/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Neelothpal/DSA-Notes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Counting
 |  |
 | ------- |
